@@ -6,7 +6,6 @@
 -   **Vite** : Outil de build rapide pour React
 -   **OpenWeather API** : Récupération des données météorologiques
 -   **Axios** : Requêtes HTTP vers l'API météo
--   **Tailwind CSS** : Stylisation de l'interface
 
 ## Description
 
